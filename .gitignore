@@ -20,3 +20,8 @@ poetry.lock
 .pytest_cache/
 botpy.log
 
+
+# Local Management Scripts
+PushMine.ps1
+SyncUpstream.ps1
+Initialize.ps1
